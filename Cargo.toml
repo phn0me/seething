@@ -1,0 +1,3 @@
+[workspace]
+members = ["corrosion2d", "seething-construct"]
+resolver = "3"
